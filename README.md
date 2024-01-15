@@ -1,2 +1,3 @@
 # LPU-NEW-12
-this is first tutorial in lpu
+this is first repo
+lovely professtional university
